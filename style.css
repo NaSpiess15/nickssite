@@ -1,7 +1,6 @@
-.container home {
-    width: 90%;
-}
-
-.body {
-    font-size: 20px;
+.title {
+    border: 2px solid rgb(95 97 110);
+    border-radius: 0.5em;
+    padding: 20px;
+    width: 10em;
 }
